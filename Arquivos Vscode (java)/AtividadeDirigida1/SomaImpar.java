@@ -1,5 +1,4 @@
 //Questão 3
-package AtividadeDirigida1;
 
 public class SomaImpar {
 //Método para somar números ímpares

@@ -1,5 +1,5 @@
 //Questão11
-package AtividadeDirigida1;
+
 public class ContVogal{
     
 

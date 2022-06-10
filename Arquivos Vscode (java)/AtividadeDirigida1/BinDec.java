@@ -1,5 +1,4 @@
 //Questão7
-package AtividadeDirigida1;
 
 public class BinDec {
 

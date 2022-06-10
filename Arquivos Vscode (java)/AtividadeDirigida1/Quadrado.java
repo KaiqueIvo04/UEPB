@@ -1,5 +1,4 @@
 //Questão 2
-package AtividadeDirigida1;
 
 public class Quadrado {
 //Método para desenhar o quadrado

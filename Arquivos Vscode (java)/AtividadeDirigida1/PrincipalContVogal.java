@@ -1,5 +1,4 @@
 //Questão11
-package AtividadeDirigida1;
 
 //Importar biblioteca do Scanner
 import java.util.Scanner;

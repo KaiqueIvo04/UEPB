@@ -1,6 +1,5 @@
-package AtividadeDirigida2;
 
-public class OitoRainhasFB{
+public class OitoRainhas{
     private static java.security.SecureRandom sorteio = new java.security.SecureRandom();
     public static final int TAMANHO = 8;
     private static char[][] tabuleiro;

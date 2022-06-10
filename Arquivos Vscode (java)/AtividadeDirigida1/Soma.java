@@ -1,5 +1,5 @@
 //Questão 5
-package AtividadeDirigida1;
+
 
 public class Soma {
     public static int num2 = 0;

@@ -1,5 +1,5 @@
 //Questão 12
-package AtividadeDirigida1;
+
 public class MatrizQuadrada {
 //Método para contar os 0s da matriz
     public int quantos0(int matriz[][]){
